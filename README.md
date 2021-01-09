@@ -27,9 +27,15 @@
 
 <br />
 
-### Github stats
+### My statistics
 
 [![Nezir's github stats](https://github-readme-stats.vercel.app/api?username=NezirNezirevic2003)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+### Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NezirNezirevic2003&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
