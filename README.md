@@ -6,7 +6,23 @@
 - 2021 Goals: Learn React, Python and Node js
 
 ### My social media
-[<img align="left" alt="NezirNezirevic2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NezirNezirevic2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NezirNezirevic2003 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="NezirNezirevic2003 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[twitter]: https://twitter.com/NezirNezirevic1
+[youtube]: https://www.youtube.com/channel/UCpiRFy9A2pgcDz0dP--gG5A/videos
+[linkedin]: https://www.linkedin.com/in/nezir-nezirevic-7242961bb/?originalSubdomain=nl
